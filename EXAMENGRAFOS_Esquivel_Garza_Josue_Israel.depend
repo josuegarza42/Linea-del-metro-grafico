@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588537744 source:c:\users\t440\desktop\examengrafos_esquivel_garza_josue_israel\examengrafos_esquivel_garza_josue_israel.c
+	<stdio.h>
+	<stdlib.h>
+	<graphics.h>
+	<string.h>
+
+1266123014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
